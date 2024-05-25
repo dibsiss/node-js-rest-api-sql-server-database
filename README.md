@@ -2,6 +2,6 @@
 create rest api node js with sql server database
 
 
-create databas in sql server
+create database in sql server
 
 npm install
